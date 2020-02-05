@@ -1,0 +1,4 @@
+2019-05-26 17:06:20,526 INFO 7913 [egg:logger] init all loggers with options: {"dir":"/Users/sunfeng/Project/NodeProject/project/mwbyd/egg-mwc-search/test/fixtures/apps/mwc-search-test/logs/mwc-search-test","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"mwc-search-test-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"agent"}
+2019-05-26 17:06:20,746 INFO 7913 [egg:core] dump config after load, 13ms
+2019-05-26 17:06:20,796 INFO 7913 [egg-watcher:agent] watcher start success
+2019-05-26 17:06:20,803 INFO 7913 [egg:core] dump config after ready, 6ms

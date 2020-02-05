@@ -1,0 +1,4 @@
+2019-05-26 17:06:21,035 INFO 7913 [egg-schedule]: register schedule /Users/sunfeng/Project/NodeProject/project/mwbyd/egg-mwc-search/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-26 17:06:21,035 INFO 7913 [egg-schedule]: register schedule /Users/sunfeng/Project/NodeProject/project/mwbyd/egg-mwc-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-26 17:06:21,178 INFO 7913 [Timer] /Users/sunfeng/Project/NodeProject/project/mwbyd/egg-mwc-search/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 24818825ms at 2019-05-27 00:00:00.003
+2019-05-26 17:06:21,178 INFO 7913 [Timer] /Users/sunfeng/Project/NodeProject/project/mwbyd/egg-mwc-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24819822ms at 2019-05-27 00:00:01.000

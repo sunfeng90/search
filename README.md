@@ -1,4 +1,4 @@
-# egg-mwc-search
+# egg-*-search
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]

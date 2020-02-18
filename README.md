@@ -17,7 +17,7 @@
 [david-url]: https://david-dm.org/eggjs/egg-mwc-search
 [snyk-image]: https://snyk.io/test/npm/egg-mwc-search/badge.svg?style=flat-square
 [snyk-url]: https://snyk.io/test/npm/egg-mwc-search
-[download-image]: https://img.shields.io/npm/dm/egg-mwc-search.svg?style=flat-square
+[download-image]: https://img.shields.io/npm/dm/egg-*-search.svg?style=flat-square
 [download-url]: https://npmjs.org/package/egg-mwc-search
 
 <!--
@@ -26,26 +26,26 @@ Description here.
 
 ## 安装插件
 
-`npm i --registry http://nexus.mwbyd.cn/nexus/content/groups/npm-group/ egg-mwc-search`
+`npm i --registry * egg-*-search`
 
 ## 依赖说明
 
 ### 依赖的 egg 版本
 
-egg-mwc-search 版本 | egg 1.x
+egg-*-search 版本 | egg 1.x
 --- | ---
 1.0.0 | 😁
 
 ### 依赖的插件
 
-- egg-mwc-client
+- egg-*-client
 
 ## 开启插件
 
 ```js
 exports.mwcSearch = {
   enable: true,
-  package: 'egg-mwc-search',
+  package: 'egg-*-search',
 };
 ```
 
